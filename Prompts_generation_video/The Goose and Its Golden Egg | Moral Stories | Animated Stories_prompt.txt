@@ -1,8 +1,13 @@
 **Prompt de vidéo mème courte :**
 
-- **Style visuel :** Animation colorée et caricaturale, avec des personnages exagérés et un style ludique.
-- **Ambiance (mood) :** Humoristique et satirique, avec une touche de tristesse à la fin.
-- **Couleurs :** Palette vive et joyeuse, priorité aux couleurs dorées pour les œufs et des tons terreux pour le fermier et son environnement.
-- **Personnages :** Un fermier avec une expression avide, une oie malicieuse et des personnages de villageois curieux en arrière-plan.
-- **Actions :** Le fermier se réjouit en ramassant les œufs dorés, puis devient très nerveux en réfléchissant au moyen d’obtenir tous les œufs en une fois, et enfin, il coupe l’oie avant d’avoir une expression consternée en voyant un seul œuf à l’intérieur.
--
+- **Style visuel** : Animation colorée et caricaturale, inspirée des contes de fées.
+- **Ambiance (mood)** : Mélange de comédie et de tragédie, avec une touche d'ironie.
+- **Couleurs** : Teintes vives comme le jaune doré des œufs, le vert des champs, et des tons terreux pour le fermier.
+- **Personnages** : Le fermier (avare, malicieux), la oie (innocente et joyeuse), et des villageois (réagissant avec étonnement).
+- **Actions** : 
+  1. Le fermier récupère un œuf doré avec un grand sourire à chaque lever du soleil.
+  2. Soudain, il prend une décision malheureuse et sort un couteau.
+  3. Les réactions horrifiées des villageois et la découverte de la triste vérité.
+- **Cadre** : Extérieur, dans un champ, avec une petite maison en arrière-plan.
+- **Durée approximative** : 30 secondes.
+- **Instructions techniques** : Résolution de la vidéo en 720p, niveau de détail haut, et ajouter des sous-titres humoristiques pour accentuer l'ironie de l'histoire.

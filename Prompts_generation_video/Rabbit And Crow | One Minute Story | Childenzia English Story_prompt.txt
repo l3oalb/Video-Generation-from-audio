@@ -1,14 +1,16 @@
-**Prompt de vidéo mème : "La Morale de l'Histoire du Lapin et du Corbeau"**
+**Prompt de vidéo mème courte :**  
 
-*Style visuel :* Animation 2D colorée et stylisée, avec un aspect cartoon.
+- **Style visuel :** Animation 2D colorée, avec des traits de crayon pour un effet ludique.
+- **Ambiance (mood) :** Humoristique et légèrement ironique, avec une touche de moralité.
+- **Couleurs :** Vives et joyeuses, principalement des verts, des bruns et des jaunes pour le décor, et des couleurs claires pour les personnages.
+- **Personnages :** Un lapin curieux et exubérant, un corbeau sage et décontracté, et un renard sournois et rusé.
+- **Actions :** Le lapin essaie de imiter le corbeau en s'asseyant immobile ; le corbeau se moque discrètement de lui depuis sa branche ; le renard s'approche furtivement.
+- **Cadre :** Extérieur, dans une forêt ensoleillée avec un arbre au centre et de l’herbe verte tout autour.
+- **Durée approximative :** 1 minute.
+- **Instructions techniques :** Résolution de la vidéo en 720p, niveau de détail élevé, et ajout d'effets sonores humoristiques (comme un bruit de miaulement comique lorsque le renard s'approche).
 
-*Ambiance (mood) :* Humour léger avec une touche de tristesse à la fin, créant une réflexion sur l'imitation.
-
-*Couleurs :* Palette de couleurs vives dominée par des verts, des bruns et des bleus pour la nature, et des teintes chaudes pour le lapin et le corbeau.
-
-*Personnages :* Un lapin curieux aux grandes oreilles, un corbeau sage posé sur une branche, et un renard rusé aux yeux malicieux.
-
-*Actions :* 
-1. Le lapin observe le corbeau sur la branche.
-2. Il essaie de copier le corbeau en s'asseyant et en ne faisant rien.
-3
+**Script suggéré :**  
+- Ouverture avec le lapin en train d'observer le corbeau.  
+- Transition rapide montrant le lapin essayant de s'asseoir comme le corbeau.  
+- Gros plan sur le renard qui s'approche silencieusement, suivi de la réaction du lapin.  
+- Conclusion avec un avertissement humoristique écrit à l'écran : "Pour réussir, ne restez pas immobile !”.
