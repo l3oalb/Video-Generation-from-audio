@@ -36,5 +36,7 @@ L'évolution logique du projet serait d'intégrer une dimension Image-to-Video (
 
 Passer d'une approche purement textuelle à une approche multimodale (Image + Texte) permettrait de verrouiller l'apparence des personnages de manière définitive. Le modèle utilisé pour ce prototype ne supportant pas nativement cette fonctionnalité, elle constitue un axe de développement prioritaire pour les versions futures.
 
+
+![Démo de mon app](<Final_Videos/The Goose and Its Golden Egg | Moral Stories | Animated Stories/ezgif-268a8d45f26cbd33.gif>)
 ![Démo de mon app](<Final_Videos/The Goose and Its Golden Egg | Moral Stories | Animated Stories/ezgif-1c5accae931cf57c.gif>)
 
