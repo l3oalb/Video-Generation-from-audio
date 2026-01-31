@@ -1,3 +1,4 @@
+Pillow>=10.0.0,<11.0.0
 streamlit>=1.35.0
 openai
 fal-client
@@ -5,4 +6,3 @@ openai-whisper
 moviepy
 requests
 python-dotenv
-Pillow>=10.0.0
