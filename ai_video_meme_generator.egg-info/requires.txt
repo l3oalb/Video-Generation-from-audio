@@ -1,0 +1,7 @@
+streamlit
+openai
+fal-client
+openai-whisper
+moviepy
+requests
+python-dotenv

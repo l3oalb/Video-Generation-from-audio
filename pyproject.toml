@@ -1,0 +1,28 @@
+[project]
+name = "ai-video-meme-generator"
+version = "0.1.0"
+description = "Générateur de mèmes vidéo utilisant Whisper, GPT-4o-mini et HunyuanVideo via fal.ai"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "streamlit",
+    "openai",
+    "fal-client",
+    "openai-whisper",
+    "moviepy",
+    "requests",
+    "python-dotenv",
+]
+
+
+[tool.setuptools]
+package-dir = {"" = "."}
+
+[tool.setuptools.packages.find]
+where = ["."]
+exclude = ["Audios*", "Notebooks*", "Final_Videos*", "Transcriptions*", "Prompts_generation_video*"]
+# ---------------------------------------
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
