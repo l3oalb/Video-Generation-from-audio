@@ -1,0 +1,7 @@
+README.md
+pyproject.toml
+ai_video_meme_generator.egg-info/PKG-INFO
+ai_video_meme_generator.egg-info/SOURCES.txt
+ai_video_meme_generator.egg-info/dependency_links.txt
+ai_video_meme_generator.egg-info/requires.txt
+ai_video_meme_generator.egg-info/top_level.txt
