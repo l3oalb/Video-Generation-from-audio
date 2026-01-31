@@ -47,3 +47,5 @@ La génération a été réalisée via l'API fal.ai en utilisant le modèle Huny
 L'évolution logique du projet serait d'intégrer une dimension Image-to-Video (I2V). Au lieu de s'appuyer uniquement sur du texte (Text-to-Video), le modèle utiliserait une image de référence contenant tous les éléments clés de l'histoire comme base structurelle fixe. 
 
 Passer d'une approche purement textuelle à une approche multimodale (Image + Texte) permettrait de verrouiller l'apparence des personnages de manière définitive. Le modèle utilisé pour ce prototype ne supportant pas nativement cette fonctionnalité, elle constitue un axe de développement prioritaire pour les versions futures.
+
+![Démo de mon app](/Users/anessad/Documents/UTT_2025-2026/Gen-AI-project-UTT/Final_Videos/The Goose and Its Golden Egg | Moral Stories | Animated Stories/ezgif-1c5accae931cf57c.gif)
