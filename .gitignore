@@ -1,7 +1,6 @@
 .venv/
 __pycache__/
 Audios/
-Final_Videos/
 Transcriptions/
 Prompts_generation_video/
 .env
